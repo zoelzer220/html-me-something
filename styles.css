@@ -1,0 +1,124 @@
+@import url("https://use.typekit.net/qxs1jci.css");
+@import url("https://use.typekit.net/zpp0cpg.css");
+
+main {
+    margin: 50px 100px 75px 100px;
+}
+
+img {
+    border-radius: 8px;
+    width: 175px;
+    height: 175px;
+    padding: 0px 10px 10px 10px;
+}
+
+h1 {
+    font-family: brother-1816, 'Century Gothic', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+    padding-top: 50px;
+}
+
+h2 {
+    font-family: brother-1816, 'Century Gothic', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    color: #424242;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: museo-slab, "Times New Roman", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 13px;
+    font-stretch: expanded;
+    color: black;
+    line-height: 17px;
+}
+
+#introtext {
+    text-align: center;
+    line-height: 20px;
+    font-size: 16px;
+    color: #171A44;
+    line-height: 24px;
+    padding-bottom: 10px;
+}
+
+.intro {
+    background-image: url("/Users/mstl/documents/lc101/html-me-something/images/headerbackground3.jpg");
+    background-color: #171A44;
+    background-size: auto;
+    text-transform: uppercase;
+    height: 200px;    
+}
+
+head {
+    text-align: center;
+}
+
+article {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#linedec {
+    border-top: 1px solid #707070;
+    height: 4px;
+    align-content: center;
+}
+
+.combo {
+    display: flex; 
+}
+
+.combo .stepimg img {
+    max-width: 175px;
+    max-height: 175px;
+    style: "float:left";
+    padding-bottom: 15px;
+}
+
+.combo .steptext {
+    padding-left: 25px;
+}
+
+#closing {
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    background-image: url("/Users/mstl/documents/lc101/html-me-something/images/headerbackground3.jpg");
+    background-color: #171A44;
+    background-size: auto;
+    text-transform: uppercase;
+    height: 100px;
+}
+
+.footercontent {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+button {
+    font-family: museo-slab, "Times New Roman", serif;
+    font-weight: 00;
+    font-style: normal;
+    size: 8px;
+}
+
+#trademark {
+    color: white; 
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
