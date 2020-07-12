@@ -53,7 +53,7 @@ p {
 }
 
 .intro {
-    background-image: url("/Users/mstl/documents/lc101/html-me-something/images/headerbackground3.jpg");
+    background-image: url("images/headerbackground3.jpg");
     background-color: #171A44;
     background-size: auto;
     text-transform: uppercase;
@@ -96,7 +96,7 @@ article {
 }
 
 footer {
-    background-image: url("/Users/mstl/documents/lc101/html-me-something/images/headerbackground3.jpg");
+    background-image: url("images/headerbackground3.jpg");
     background-color: #171A44;
     background-size: auto;
     text-transform: uppercase;
